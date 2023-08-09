@@ -1,0 +1,34 @@
+[
+  {
+    "_id": {
+      "$oid": "64b4c380715772ac8808aac4"
+    },
+    "name": "Admin",
+    "email": "admin@gmail.com",
+    "password": "$2a$10$jggAcVbvBv0ar1yGr4XFWuaUuDuZMLRpsm95vOqOJLJTFOUhuJwTO",
+    "isAdmin": true,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2023-07-17T04:28:48.568Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-17T04:28:48.568Z"
+    }
+},
+{
+  "_id": {
+    "$oid": "64b4c380715772ac8808aac5"
+  },
+  "name": "Pham Anh",
+  "email": "anh0485@gmail.com",
+  "password": "$2a$10$vsUrGCov7Jt.07.GSVIKserCB8LnahnnDBYsXxcnSPdEtf/0f4aGO",
+  "isAdmin": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-07-17T04:28:48.570Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-17T04:28:48.570Z"
+  }
+}
+]

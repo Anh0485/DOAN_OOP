@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "64b603c2f528759024fe4012"
+  },
+  "name": "Áo polo",
+  "description": "Áo polo là một loại áo thể thao phổ biến được thiết kế dựa trên áo sơ mi, nhưng có phần cổ đứng và nút cài trước.",
+  "createdAt": {
+    "$date": "2023-07-18T03:15:14.965Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-18T03:54:49.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b60417f528759024fe401c"
+  },
+  "name": "Hoodie",
+  "description": "Áo hoodie là loại áo được thiết kế khá rộng rãi, có mũ, được may bằng chất liệu nỉ, thường có khóa để mặc như một chiếc áo khoác hoặc không khóa như một chiếc áo phông, thường dài đến ngang hông.",
+  "createdAt": {
+    "$date": "2023-07-18T03:16:39.511Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-18T03:53:29.891Z"
+  },
+  "__v": 0
+}]
